@@ -1,6 +1,377 @@
 <resources>
     <string name="app_name">RailLanka</string>
-
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="stations_array">
+        <item>abanpola</item>
+        <item>adagala</item>
+        <item>ahangama</item>
+        <item>ahungalle</item>
+        <item>akbopura</item>
+        <item>akurala</item>
+        <item>alawatupitiya</item>
+        <item>alawwa</item>
+        <item>alutambalama</item>
+        <item>aluthgama</item>
+        <item>ambalangoda</item>
+        <item>ambewela</item>
+        <item>ambeypussa</item>
+        <item>anawilundawa</item>
+        <item>andadola</item>
+        <item>angampitiya</item>
+        <item>angulana</item>
+        <item>anuradhapura</item>
+        <item>anuradhapura town</item>
+        <item>arachchikattuwa</item>
+        <item>arapangama</item>
+        <item>arukkuwatte</item>
+        <item>aselapura</item>
+        <item>aukana</item>
+        <item>avissawella</item>
+        <item>badulla</item>
+        <item>balana</item>
+        <item>balapitiya</item>
+        <item>bambalapitiya</item>
+        <item>bandarawela</item>
+        <item>bangadeniya</item>
+        <item>baseline road</item>
+        <item>battaluoya</item>
+        <item>batticaloa</item>
+        <item>batuwatte</item>
+        <item>bemmulla</item>
+        <item>bentota</item>
+        <item>beruwala</item>
+        <item>bolawatte</item>
+        <item>boossa</item>
+        <item>borelessa</item>
+        <item>botale</item>
+        <item>bulugahagoda</item>
+        <item>buthgamuwa</item>
+        <item>chavakachcheri</item>
+        <item>cheddiikulam</item>
+        <item>chilaw</item>
+        <item>china bey</item>
+        <item>chunnakam</item>
+        <item>colombo fort</item>
+        <item>cotta road</item>
+        <item>daraluwa</item>
+        <item>dehiwala</item>
+        <item>dekinda</item>
+        <item>dematagoda</item>
+        <item>demodara</item>
+        <item>dewapuram</item>
+        <item>dewedda</item>
+        <item>diyatalawa</item>
+        <item>dodanduwa</item>
+        <item>egoda uyana</item>
+        <item>eliphant pass</item>
+        <item>elle</item>
+        <item>eluthumattuval</item>
+        <item>elwala</item>
+        <item>enderamulla</item>
+        <item>erattaperiyakulam</item>
+        <item>eravur</item>
+        <item>erukkalam pendu</item>
+        <item>free trade zone</item>
+        <item>galaboda</item>
+        <item>galgamuwa</item>
+        <item>galle</item>
+        <item>gallella</item>
+        <item>galoya junction</item>
+        <item>gammana</item>
+        <item>gampaha</item>
+        <item>gampola</item>
+        <item>ganegoda</item>
+        <item>ganemulla</item>
+        <item>ganewatte</item>
+        <item>gangoda</item>
+        <item>gantalawa</item>
+        <item>gelioya</item>
+        <item>ginthota</item>
+        <item>girambe</item>
+        <item>godagama</item>
+        <item>great western</item>
+        <item>habaraduwa</item>
+        <item>habarana</item>
+        <item>haliela</item>
+        <item>haputale</item>
+        <item>hatamuna</item>
+        <item>hataras kotuwa</item>
+        <item>hatton</item>
+        <item>heel oya</item>
+        <item>heendeniya</item>
+        <item>hettimulla</item>
+        <item>hikkaduwa</item>
+        <item>hingurakgoda</item>
+        <item>hiriyala</item>
+        <item>homagama</item>
+        <item>homagama hospital</item>
+        <item>horape</item>
+        <item>horiwiala</item>
+        <item>hunupitiya</item>
+        <item>hyinport</item>
+        <item>idalgasinna</item>
+        <item>ihalagama</item>
+        <item>ihalakotte</item>
+        <item>ihalawatawala</item>
+        <item>induruwa</item>
+        <item>inguruoya</item>
+        <item>inuvil</item>
+        <item>ja-ela</item>
+        <item>jaffna</item>
+        <item>jayanthipura</item>
+        <item>kachcheri halt</item>
+        <item>kadadasi nagar</item>
+        <item>kadigamuwa</item>
+        <item>kadugannawa</item>
+        <item>kadugoda</item>
+        <item>kahawa</item>
+        <item>kakkapalliya</item>
+        <item>kalawewa</item>
+        <item>kalkudah</item>
+        <item>kalutara north</item>
+        <item>kalutara south</item>
+        <item>kamburugamuwa</item>
+        <item>kandana</item>
+        <item>kandegoda</item>
+        <item>kandy</item>
+        <item>kankesanthurai</item>
+        <item>kantale</item>
+        <item>kapuwatte</item>
+        <item>karadipuwal</item>
+        <item>kathaluwa</item>
+        <item>kattuwa</item>
+        <item>katugastota</item>
+        <item>katugoda</item>
+        <item>katukurunda</item>
+        <item>katunayaka airport</item>
+        <item>katunayake</item>
+        <item>keenawala</item>
+        <item>kekirawa</item>
+        <item>kelaniya</item>
+        <item>kilinochchi</item>
+        <item>kinigama</item>
+        <item>kirulapana</item>
+        <item>kital elle</item>
+        <item>kochchikade</item>
+        <item>kodikamam</item>
+        <item>koggala</item>
+        <item>kokuvil</item>
+        <item>kollupitiya</item>
+        <item>kolonnawa</item>
+        <item>kompannavediya</item>
+        <item>kondavil</item>
+        <item>konwewa</item>
+        <item>koralawella</item>
+        <item>kosgama</item>
+        <item>kosgoda</item>
+        <item>koshinna</item>
+        <item>kotagala</item>
+        <item>kottawa</item>
+        <item>kuda wawa</item>
+        <item>kudahakapola</item>
+        <item>kumarakanda</item>
+        <item>kumbalgama</item>
+        <item>kurahanhenagama</item>
+        <item>kurana</item>
+        <item>kurunegala</item>
+        <item>laksauyana</item>
+        <item>liyanagemulla</item>
+        <item>liyanwala</item>
+        <item>lunawa</item>
+        <item>lunuwila</item>
+        <item>madampagama</item>
+        <item>madampe</item>
+        <item>madhu road</item>
+        <item>madurankuliya</item>
+        <item>magalegoda</item>
+        <item>maggona</item>
+        <item>mahaiyawa</item>
+        <item>maharagama</item>
+        <item>maho</item>
+        <item>malapalle</item>
+        <item>mallakam</item>
+        <item>manampitiya</item>
+        <item>mangalaeliya</item>
+        <item>mankulam</item>
+        <item>mannar</item>
+        <item>manuwangama</item>
+        <item>maradana</item>
+        <item>matale</item>
+        <item>matara</item>
+        <item>mathottam</item>
+        <item>mavittapuram</item>
+        <item>medagama</item>
+        <item>medawachchiya</item>
+        <item>meddegama</item>
+        <item>meegoda</item>
+        <item>meesalai</item>
+        <item>mha induruwa</item>
+        <item>midigama</item>
+        <item>mihintale</item>
+        <item>mihintale junction</item>
+        <item>minneriya</item>
+        <item>mirigama</item>
+        <item>mirihanpitigama</item>
+        <item>mirissa</item>
+        <item>mirusuvil</item>
+        <item>mollipatana</item>
+        <item>moragollagama</item>
+        <item>morakele</item>
+        <item>moratuwa</item>
+        <item>mount lavinia</item>
+        <item>mundal</item>
+        <item>murikandy</item>
+        <item>murunkan</item>
+        <item>muththettugala</item>
+        <item>nagollagama</item>
+        <item>nailiya</item>
+        <item>nanuoya</item>
+        <item>narahenpita</item>
+        <item>nattandiya</item>
+        <item>navatkuli</item>
+        <item>nawalapitiya</item>
+        <item>nawinna</item>
+        <item>negama</item>
+        <item>negombo</item>
+        <item>nelumpathgama</item>
+        <item>nelumpokuna</item>
+        <item>neriyakulam</item>
+        <item>nooranagar</item>
+        <item>nugegoda</item>
+        <item>ohiya</item>
+        <item>omanthai</item>
+        <item>padukka</item>
+        <item>pahalawardhana</item>
+        <item>palavi</item>
+        <item>pallai</item>
+        <item>pallewala</item>
+        <item>palugaswewa</item>
+        <item>panadura</item>
+        <item>panagoda</item>
+        <item>panaleeya</item>
+        <item>pangiriwatta</item>
+        <item>pannipitiya</item>
+        <item>parakumpura</item>
+        <item>paranthan</item>
+        <item>parasangahawewa</item>
+        <item>patagamgoda</item>
+        <item>pathanpha</item>
+        <item>pattipola</item>
+        <item>payagala north</item>
+        <item>payagala south</item>
+        <item>pemrose</item>
+        <item>peradeniya</item>
+        <item>peralanda</item>
+        <item>periyanagavillu</item>
+        <item>pesalai</item>
+        <item>piliduwa</item>
+        <item>pilimatalawa</item>
+        <item>pinnagolla</item>
+        <item>pinnawala</item>
+        <item>pinwatte</item>
+        <item>piyadigama</item>
+        <item>piyagama</item>
+        <item>polgahawela</item>
+        <item>polonnaruwa</item>
+        <item>polwathumodara</item>
+        <item>poonewa</item>
+        <item>porapola</item>
+        <item>porapola junc.</item>
+        <item>potuhera</item>
+        <item>pulachchikulam</item>
+        <item>puliyankulam</item>
+        <item>punani</item>
+        <item>punkankulam</item>
+        <item>puttalam</item>
+        <item>puwakpitiya</item>
+        <item>radella</item>
+        <item>ragama</item>
+        <item>rambukkana</item>
+        <item>ranamuggamuwa</item>
+        <item>randenigama</item>
+        <item>rathgama</item>
+        <item>ratmalana</item>
+        <item>redeethenna</item>
+        <item>richmond hill</item>
+        <item>rosella</item>
+        <item>saliyapura</item>
+        <item>sankathanai</item>
+        <item>sarasaviuyana</item>
+        <item>sawarana</item>
+        <item>secretartat halt</item>
+        <item>seeduwa</item>
+        <item>seenigama</item>
+        <item>senarathgama</item>
+        <item>sevanapitiya</item>
+        <item>siyabalagawewa</item>
+        <item>siyalangamuwa</item>
+        <item>srawasthipura</item>
+        <item>talaimannar</item>
+        <item>talaimannar pier</item>
+        <item>talawa</item>
+        <item>talawakele</item>
+        <item>talawattegedara</item>
+        <item>tampalapopla</item>
+        <item>tellipallai</item>
+        <item>telwatte</item>
+        <item>tembligala</item>
+        <item>thachanthoppu</item>
+        <item>thalpe</item>
+        <item>thambagalla</item>
+        <item>thambuttegama</item>
+        <item>thandikulam</item>
+        <item>thiiruketheeswaram</item>
+        <item>thilladiya</item>
+        <item>thiranagama</item>
+        <item>thoddaveli</item>
+        <item>timbiriyagedara</item>
+        <item>tismalpola</item>
+        <item>train halt 01</item>
+        <item>trincomalee</item>
+        <item>tudella</item>
+        <item>tummodara</item>
+        <item>udatalawinna</item>
+        <item>udaththawala</item>
+        <item>udhamulla</item>
+        <item>udugodagama</item>
+        <item>uduwara</item>
+        <item>uggalla</item>
+        <item>ukuwela</item>
+        <item>ulapane</item>
+        <item>unawatuna</item>
+        <item>uyangalla</item>
+        <item>valachchenei</item>
+        <item>vandaramullai</item>
+        <item>vavuniya</item>
+        <item>veyangoda</item>
+        <item>viralmurippuwa</item>
+        <item>wadduwa</item>
+        <item>waga</item>
+        <item>waikkala</item>
+        <item>walahapitiya</item>
+        <item>walaswewa</item>
+        <item>walgama</item>
+        <item>walpola</item>
+        <item>wanawasala</item>
+        <item>wandurawa</item>
+        <item>watagoda</item>
+        <item>wataraka</item>
+        <item>watawala</item>
+        <item>wattegama</item>
+        <item>weligama</item>
+        <item>welikanda</item>
+        <item>wellawa</item>
+        <item>wellawatta</item>
+        <item>weragala</item>
+        <item>wijayarajadahana</item>
+        <item>wilwatte</item>
+        <item>wlakubura</item>
+        <item>yagoda</item>
+        <item>yapahuwa</item>
+        <item>yatagama</item>
+        <item>yatirawana</item>
+        <item>yattalgoda</item>
+    </string-array>
 </resources>
+
+
